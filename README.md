@@ -19,9 +19,8 @@ Proyek ini merupakan tugas kuliah untuk memahami arsitektur Transformer dengan m
   - Opsi **weight tying** (embedding ↔ output projection)
 
 ## 📂 Struktur
-- `transformer_from_scratch_colab.ipynb` → implementasi dasar
-- `transformer_from_scratch_advanced_colab.ipynb` → versi lebih kompleks (visualisasi & analisis statistik)
-- `Laporan_Transformer_FromScratch.pdf` → laporan singkat (2 halaman)
+- `transformer_from_scratch_RNP_colab.ipynb` → Implementasi dasar dan bonus (visualisasi & analisis statistik)
+- `Laporan_Transformer_FromScratch_RNP.pdf` → laporan singkat (2 halaman)
 
 ## 🚀 Cara Menjalankan
 1. Clone repo:
